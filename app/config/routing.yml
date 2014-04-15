@@ -1,0 +1,3 @@
+univalle_demo:
+    resource: "@AcmeDemoBundle/Resources/config/routing.yml"
+    prefix:   /

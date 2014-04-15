@@ -1,0 +1,4 @@
+_welcome:
+    resource: "@AcmeDemoBundle/Controller"
+    type:     annotation
+    prefix:   /
